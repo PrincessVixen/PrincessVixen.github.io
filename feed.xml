@@ -3,10 +3,34 @@
     <title>PWLHA</title>
     <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/feed.xml" rel="self" />
     <link href="https://PrincessVixen.github.io/PrincessVixen.github.io" />
-    <updated>1970-01-01T10:00:00+10:00</updated>
+    <updated>2020-05-17T00:25:50+10:00</updated>
     <author>
         <name>Tam</name>
     </author>
     <id>https://PrincessVixen.github.io/PrincessVixen.github.io</id>
 
+    <entry>
+        <title>Welcome</title>
+        <author>
+            <name>Tam</name>
+        </author>
+        <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/welcome.html"/>
+        <id>https://PrincessVixen.github.io/PrincessVixen.github.io/welcome.html</id>
+
+        <updated>2020-05-17T00:24:28+10:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>About Us</title>
+        <author>
+            <name>Tam</name>
+        </author>
+        <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/about-us.html"/>
+        <id>https://PrincessVixen.github.io/PrincessVixen.github.io/about-us.html</id>
+
+        <updated>2020-05-17T00:23:13+10:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
