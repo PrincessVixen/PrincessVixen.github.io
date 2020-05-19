@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/freedom-of-entry.html",
+            "url": "https://PrincessVixen.github.io/PrincessVixen.github.io/freedom-of-entry.html",
+            "title": "Freedom of Entry",
+            "summary": "The Regiment is proud to have been granted the Freedom of Entry&hellip;",
+            "content_html": "The Regiment is proud to have been granted the Freedom of Entry to seven cities they being Sale, Melbourne, Fitzroy, Kyneton, Traralgon, Bairnsdale and Beechworth.",
+            "author": {
+                "name": "Tam"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-19T23:20:11+10:00",
+            "date_modified": "2020-05-19T23:26:11+10:00"
+        },
+        {
             "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/history.html",
             "url": "https://PrincessVixen.github.io/PrincessVixen.github.io/history.html",
             "title": "History",
@@ -52,32 +66,6 @@
             "date_modified": "2020-05-19T23:06:32+10:00"
         },
         {
-            "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/band-sheet-music.html",
-            "url": "https://PrincessVixen.github.io/PrincessVixen.github.io/band-sheet-music.html",
-            "title": "Band - Sheet Music",
-            "author": {
-                "name": "Tam"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-05-19T22:16:47+10:00",
-            "date_modified": "2020-05-19T22:32:03+10:00"
-        },
-        {
-            "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/members-area.html",
-            "url": "https://PrincessVixen.github.io/PrincessVixen.github.io/members-area.html",
-            "title": "Members Area",
-            "summary": "Stuff for members",
-            "content_html": "Stuff for members",
-            "author": {
-                "name": "Tam"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-05-19T22:15:44+10:00",
-            "date_modified": "2020-05-19T22:15:44+10:00"
-        },
-        {
             "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/test-page.html",
             "url": "https://PrincessVixen.github.io/PrincessVixen.github.io/test-page.html",
             "title": "Test Page",
@@ -88,33 +76,6 @@
             ],
             "date_published": "2020-05-17T00:36:04+10:00",
             "date_modified": "2020-05-17T00:36:04+10:00"
-        },
-        {
-            "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/welcome.html",
-            "url": "https://PrincessVixen.github.io/PrincessVixen.github.io/welcome.html",
-            "title": "Home",
-            "summary": "Stuff about cool war stuff",
-            "content_html": "Stuff about cool war stuff",
-            "image": "https://PrincessVixen.github.io/PrincessVixen.github.io/media/posts/2/LogoCover4.jpg",
-            "author": {
-                "name": "Tam"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-05-17T00:24:28+10:00",
-            "date_modified": "2020-05-19T23:00:10+10:00"
-        },
-        {
-            "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/about-us.html",
-            "url": "https://PrincessVixen.github.io/PrincessVixen.github.io/about-us.html",
-            "title": "About Us",
-            "author": {
-                "name": "Tam"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-05-17T00:23:13+10:00",
-            "date_modified": "2020-05-17T00:23:13+10:00"
         }
     ]
 }

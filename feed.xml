@@ -3,12 +3,32 @@
     <title>PWLHA</title>
     <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/feed.xml" rel="self" />
     <link href="https://PrincessVixen.github.io/PrincessVixen.github.io" />
-    <updated>2020-05-19T23:28:59+10:00</updated>
+    <updated>2020-05-19T23:29:42+10:00</updated>
     <author>
         <name>Tam</name>
     </author>
     <id>https://PrincessVixen.github.io/PrincessVixen.github.io</id>
 
+    <entry>
+        <title>Freedom of Entry</title>
+        <author>
+            <name>Tam</name>
+        </author>
+        <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/freedom-of-entry.html"/>
+        <id>https://PrincessVixen.github.io/PrincessVixen.github.io/freedom-of-entry.html</id>
+
+        <updated>2020-05-19T23:26:11+10:00</updated>
+            <summary>
+                <![CDATA[
+                    The Regiment is proud to have been granted the Freedom of Entry&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                The Regiment is proud to have been granted the Freedom of Entry to seven cities they being Sale, Melbourne, Fitzroy, Kyneton, Traralgon, Bairnsdale and Beechworth.
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>History</title>
         <author>
@@ -91,38 +111,6 @@ Mercedes Benz G-Wagon SRV on exercise with the 4th/19th Prince of Wales's Light 
         </content>
     </entry>
     <entry>
-        <title>Band - Sheet Music</title>
-        <author>
-            <name>Tam</name>
-        </author>
-        <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/band-sheet-music.html"/>
-        <id>https://PrincessVixen.github.io/PrincessVixen.github.io/band-sheet-music.html</id>
-
-        <updated>2020-05-19T22:32:03+10:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Members Area</title>
-        <author>
-            <name>Tam</name>
-        </author>
-        <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/members-area.html"/>
-        <id>https://PrincessVixen.github.io/PrincessVixen.github.io/members-area.html</id>
-
-        <updated>2020-05-19T22:15:44+10:00</updated>
-            <summary>
-                <![CDATA[
-                    Stuff for members
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                Stuff for members
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Test Page</title>
         <author>
             <name>Tam</name>
@@ -131,40 +119,6 @@ Mercedes Benz G-Wagon SRV on exercise with the 4th/19th Prince of Wales's Light 
         <id>https://PrincessVixen.github.io/PrincessVixen.github.io/test-page.html</id>
 
         <updated>2020-05-17T00:36:04+10:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Home</title>
-        <author>
-            <name>Tam</name>
-        </author>
-        <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/welcome.html"/>
-        <id>https://PrincessVixen.github.io/PrincessVixen.github.io/welcome.html</id>
-
-        <updated>2020-05-19T23:00:10+10:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://PrincessVixen.github.io/PrincessVixen.github.io/media/posts/2/LogoCover4.jpg" alt="" />
-                    Stuff about cool war stuff
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://PrincessVixen.github.io/PrincessVixen.github.io/media/posts/2/LogoCover4.jpg" alt="" />
-                Stuff about cool war stuff
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>About Us</title>
-        <author>
-            <name>Tam</name>
-        </author>
-        <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/about-us.html"/>
-        <id>https://PrincessVixen.github.io/PrincessVixen.github.io/about-us.html</id>
-
-        <updated>2020-05-17T00:23:13+10:00</updated>
             <summary></summary>
         <content></content>
     </entry>
