@@ -3,12 +3,64 @@
     <title>PWLHA</title>
     <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/feed.xml" rel="self" />
     <link href="https://PrincessVixen.github.io/PrincessVixen.github.io" />
-    <updated>2020-05-19T22:05:48+10:00</updated>
+    <updated>2020-05-19T22:22:28+10:00</updated>
     <author>
         <name>Tam</name>
     </author>
     <id>https://PrincessVixen.github.io/PrincessVixen.github.io</id>
 
+    <entry>
+        <title>Band - Sheet Music</title>
+        <author>
+            <name>Tam</name>
+        </author>
+        <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/band-sheet-music.html"/>
+        <id>https://PrincessVixen.github.io/PrincessVixen.github.io/band-sheet-music.html</id>
+
+        <updated>2020-05-19T22:16:47+10:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Members Area</title>
+        <author>
+            <name>Tam</name>
+        </author>
+        <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/members-area.html"/>
+        <id>https://PrincessVixen.github.io/PrincessVixen.github.io/members-area.html</id>
+
+        <updated>2020-05-19T22:15:44+10:00</updated>
+            <summary>
+                <![CDATA[
+                    Stuff for members
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Stuff for members
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Band</title>
+        <author>
+            <name>Tam</name>
+        </author>
+        <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/band.html"/>
+        <id>https://PrincessVixen.github.io/PrincessVixen.github.io/band.html</id>
+
+        <updated>2020-05-19T22:15:07+10:00</updated>
+            <summary>
+                <![CDATA[
+                    This is the bands page
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                This is the bands page
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test Page</title>
         <author>
