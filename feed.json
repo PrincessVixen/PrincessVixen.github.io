@@ -48,7 +48,7 @@
             "tags": [
             ],
             "date_published": "2020-05-19T22:15:07+10:00",
-            "date_modified": "2020-05-19T22:37:25+10:00"
+            "date_modified": "2020-05-19T22:48:08+10:00"
         },
         {
             "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/test-page.html",
@@ -65,16 +65,17 @@
         {
             "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/welcome.html",
             "url": "https://PrincessVixen.github.io/PrincessVixen.github.io/welcome.html",
-            "title": "Prince Of Wales&#x27;s Lighthorse Association",
+            "title": "Prince Of Wales&#x27;s Lighthorse Regiment Association",
             "summary": "Stuff about cool war stuff",
             "content_html": "Stuff about cool war stuff",
+            "image": "https://PrincessVixen.github.io/PrincessVixen.github.io/media/posts/2/LogoCover2.jpg",
             "author": {
                 "name": "Tam"
             },
             "tags": [
             ],
             "date_published": "2020-05-17T00:24:28+10:00",
-            "date_modified": "2020-05-19T22:29:19+10:00"
+            "date_modified": "2020-05-19T22:48:00+10:00"
         },
         {
             "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/about-us.html",
