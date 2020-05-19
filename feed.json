@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/walers.html",
+            "url": "https://PrincessVixen.github.io/PrincessVixen.github.io/walers.html",
+            "title": "Waler&#x27;s",
+            "summary": "about the Waler's",
+            "content_html": "about the Waler's",
+            "author": {
+                "name": "Tam"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-19T23:06:42+10:00",
+            "date_modified": "2020-05-19T23:06:42+10:00"
+        },
+        {
+            "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/silver-plumes.html",
+            "url": "https://PrincessVixen.github.io/PrincessVixen.github.io/silver-plumes.html",
+            "title": "Silver Plumes",
+            "summary": "about Silver Plumes",
+            "content_html": "about Silver Plumes",
+            "author": {
+                "name": "Tam"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-19T23:06:32+10:00",
+            "date_modified": "2020-05-19T23:06:32+10:00"
+        },
+        {
             "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/band-sheet-music.html",
             "url": "https://PrincessVixen.github.io/PrincessVixen.github.io/band-sheet-music.html",
             "title": "Band - Sheet Music",
@@ -38,7 +66,7 @@
         {
             "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/band.html",
             "url": "https://PrincessVixen.github.io/PrincessVixen.github.io/band.html",
-            "title": "Band",
+            "title": "4th/19th Prince of Wales&#x27;s Lighthorse Regiment Association Band",
             "summary": "This is the bands page - updated",
             "content_html": "This is the bands page - updated",
             "image": "https://PrincessVixen.github.io/PrincessVixen.github.io/media/posts/4/BandCover.jpg",
@@ -48,7 +76,7 @@
             "tags": [
             ],
             "date_published": "2020-05-19T22:15:07+10:00",
-            "date_modified": "2020-05-19T22:48:08+10:00"
+            "date_modified": "2020-05-19T23:06:17+10:00"
         },
         {
             "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/test-page.html",

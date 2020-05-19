@@ -3,12 +3,52 @@
     <title>4th/19th</title>
     <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/feed.xml" rel="self" />
     <link href="https://PrincessVixen.github.io/PrincessVixen.github.io" />
-    <updated>2020-05-19T23:04:53+10:00</updated>
+    <updated>2020-05-19T23:07:12+10:00</updated>
     <author>
         <name>Tam</name>
     </author>
     <id>https://PrincessVixen.github.io/PrincessVixen.github.io</id>
 
+    <entry>
+        <title>Waler&#x27;s</title>
+        <author>
+            <name>Tam</name>
+        </author>
+        <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/walers.html"/>
+        <id>https://PrincessVixen.github.io/PrincessVixen.github.io/walers.html</id>
+
+        <updated>2020-05-19T23:06:42+10:00</updated>
+            <summary>
+                <![CDATA[
+                    about the Waler's
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                about the Waler's
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Silver Plumes</title>
+        <author>
+            <name>Tam</name>
+        </author>
+        <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/silver-plumes.html"/>
+        <id>https://PrincessVixen.github.io/PrincessVixen.github.io/silver-plumes.html</id>
+
+        <updated>2020-05-19T23:06:32+10:00</updated>
+            <summary>
+                <![CDATA[
+                    about Silver Plumes
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                about Silver Plumes
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Band - Sheet Music</title>
         <author>
@@ -42,14 +82,14 @@
         </content>
     </entry>
     <entry>
-        <title>Band</title>
+        <title>4th/19th Prince of Wales&#x27;s Lighthorse Regiment Association Band</title>
         <author>
             <name>Tam</name>
         </author>
         <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/band.html"/>
         <id>https://PrincessVixen.github.io/PrincessVixen.github.io/band.html</id>
 
-        <updated>2020-05-19T22:48:08+10:00</updated>
+        <updated>2020-05-19T23:06:17+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://PrincessVixen.github.io/PrincessVixen.github.io/media/posts/4/BandCover.jpg" alt="" />
