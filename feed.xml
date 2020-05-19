@@ -3,7 +3,7 @@
     <title>PWLHA</title>
     <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/feed.xml" rel="self" />
     <link href="https://PrincessVixen.github.io/PrincessVixen.github.io" />
-    <updated>2020-05-19T21:36:24+10:00</updated>
+    <updated>2020-05-19T21:41:33+10:00</updated>
     <author>
         <name>Tam</name>
     </author>
@@ -22,16 +22,24 @@
         <content></content>
     </entry>
     <entry>
-        <title>Welcome</title>
+        <title>4th/19th Prince Of Wales&#x27;s Lighthorse Association</title>
         <author>
             <name>Tam</name>
         </author>
         <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/welcome.html"/>
         <id>https://PrincessVixen.github.io/PrincessVixen.github.io/welcome.html</id>
 
-        <updated>2020-05-17T00:24:28+10:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2020-05-19T21:41:29+10:00</updated>
+            <summary>
+                <![CDATA[
+                    Stuff about cool war stuff
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Stuff about cool war stuff
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>About Us</title>
