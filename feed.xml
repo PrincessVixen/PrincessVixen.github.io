@@ -3,7 +3,7 @@
     <title>PWLHA</title>
     <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/feed.xml" rel="self" />
     <link href="https://PrincessVixen.github.io/PrincessVixen.github.io" />
-    <updated>2020-05-19T23:29:42+10:00</updated>
+    <updated>2020-05-19T23:32:14+10:00</updated>
     <author>
         <name>Tam</name>
     </author>
@@ -109,17 +109,5 @@ Mercedes Benz G-Wagon SRV on exercise with the 4th/19th Prince of Wales's Light 
                 about Silver Plumes
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>Test Page</title>
-        <author>
-            <name>Tam</name>
-        </author>
-        <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/test-page.html"/>
-        <id>https://PrincessVixen.github.io/PrincessVixen.github.io/test-page.html</id>
-
-        <updated>2020-05-17T00:36:04+10:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
 </feed>
