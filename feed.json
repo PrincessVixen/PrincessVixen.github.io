@@ -64,6 +64,21 @@
             ],
             "date_published": "2020-05-19T23:06:32+10:00",
             "date_modified": "2020-05-19T23:06:32+10:00"
+        },
+        {
+            "id": "https://PrincessVixen.github.io/PrincessVixen.github.io/band.html",
+            "url": "https://PrincessVixen.github.io/PrincessVixen.github.io/band.html",
+            "title": "4th/19th Prince of Wales&#x27;s Lighthorse Regiment Association Band",
+            "summary": "This is the bands page - updated",
+            "content_html": "This is the bands page - updated",
+            "image": "https://PrincessVixen.github.io/PrincessVixen.github.io/media/posts/4/BandCover.jpg",
+            "author": {
+                "name": "Tam"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-19T22:15:07+10:00",
+            "date_modified": "2020-05-19T23:26:05+10:00"
         }
     ]
 }

@@ -3,7 +3,7 @@
     <title>PWLHA</title>
     <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/feed.xml" rel="self" />
     <link href="https://PrincessVixen.github.io/PrincessVixen.github.io" />
-    <updated>2020-05-19T23:32:39+10:00</updated>
+    <updated>2020-05-19T23:33:00+10:00</updated>
     <author>
         <name>Tam</name>
     </author>
@@ -107,6 +107,28 @@ Mercedes Benz G-Wagon SRV on exercise with the 4th/19th Prince of Wales's Light 
         <content type="html">
             <![CDATA[
                 about Silver Plumes
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>4th/19th Prince of Wales&#x27;s Lighthorse Regiment Association Band</title>
+        <author>
+            <name>Tam</name>
+        </author>
+        <link href="https://PrincessVixen.github.io/PrincessVixen.github.io/band.html"/>
+        <id>https://PrincessVixen.github.io/PrincessVixen.github.io/band.html</id>
+
+        <updated>2020-05-19T23:26:05+10:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://PrincessVixen.github.io/PrincessVixen.github.io/media/posts/4/BandCover.jpg" alt="" />
+                    This is the bands page - updated
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://PrincessVixen.github.io/PrincessVixen.github.io/media/posts/4/BandCover.jpg" alt="" />
+                This is the bands page - updated
             ]]>
         </content>
     </entry>
