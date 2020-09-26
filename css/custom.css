@@ -1,8 +1,31 @@
 
+
+#mainNavbar {
+    background-color: #0099FF;
+}
+
 .headerImageBackground {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
+    z-index: -1;
 }
 
+#headerImage {
+    height: 400px;
+    max-height: 400px;
+    overflow: hidden;
+}
+
+#links {
+    max-height: 100px;
+}
+
+#headerBelowNavBar {
+    height:300px;
+}
+
+#contents {
+
+}
