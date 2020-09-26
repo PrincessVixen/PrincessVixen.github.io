@@ -16,15 +16,19 @@
     height: 400px;
     max-height: 400px;
     overflow: hidden;
+    opacity: 0.8
+}
+
+#headerBelowNavBar {
+    height: 300px;
+    padding: 100px;
 }
 
 #links {
     max-height: 100px;
 }
 
-#headerBelowNavBar {
-    height:300px;
-}
+
 
 #contents {
 
