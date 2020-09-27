@@ -32,6 +32,11 @@
     background-color: #0099FF;
 }
 
+#navBarLogo {
+    margin-left: 100px;
+    width: 300px;
+}
+
 .headerImageBackground {
     position: absolute;
     top: 0;
@@ -53,7 +58,6 @@
 }
 
 #sideMenu {
-    padding-top:70px;
     z-index:-10;
 }
 
